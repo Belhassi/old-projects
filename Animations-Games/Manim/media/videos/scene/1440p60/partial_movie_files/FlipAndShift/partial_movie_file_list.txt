@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/imadb/Documents/Python Projects/Animations-Games/Manim/media/videos/scene/1440p60/partial_movie_files/FlipAndShift/3572009972_855554455_223132457.mp4'
+file 'file:C:/Users/imadb/Documents/Python Projects/Animations-Games/Manim/media/videos/scene/1440p60/partial_movie_files/FlipAndShift/916560888_2188165134_4272345035.mp4'
+file 'file:C:/Users/imadb/Documents/Python Projects/Animations-Games/Manim/media/videos/scene/1440p60/partial_movie_files/FlipAndShift/916560888_1274640756_4272345035.mp4'
+file 'file:C:/Users/imadb/Documents/Python Projects/Animations-Games/Manim/media/videos/scene/1440p60/partial_movie_files/FlipAndShift/916560888_166180641_4272345035.mp4'

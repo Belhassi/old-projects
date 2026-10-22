@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/Manim/media/videos/scene/1080p60/partial_movie_files/FlipAndShift/3529212410_855554455_223132457.mp4'
+file 'file:D:/Manim/media/videos/scene/1080p60/partial_movie_files/FlipAndShift/3040924799_2188165134_4272345035.mp4'
+file 'file:D:/Manim/media/videos/scene/1080p60/partial_movie_files/FlipAndShift/3040924799_1274640756_4272345035.mp4'
+file 'file:D:/Manim/media/videos/scene/1080p60/partial_movie_files/FlipAndShift/3040924799_166180641_4272345035.mp4'

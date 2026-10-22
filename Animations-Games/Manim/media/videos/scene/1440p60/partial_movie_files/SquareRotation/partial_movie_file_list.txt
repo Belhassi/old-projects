@@ -1,0 +1,11 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/imadb/Documents/Python Projects/Animations-Games/Manim/media/videos/scene/1440p60/partial_movie_files/SquareRotation/3572009972_2938861264_223132457.mp4'
+file 'file:C:/Users/imadb/Documents/Python Projects/Animations-Games/Manim/media/videos/scene/1440p60/partial_movie_files/SquareRotation/916560888_1592874911_3256495558.mp4'
+file 'file:C:/Users/imadb/Documents/Python Projects/Animations-Games/Manim/media/videos/scene/1440p60/partial_movie_files/SquareRotation/916560888_895620333_3256495558.mp4'
+file 'file:C:/Users/imadb/Documents/Python Projects/Animations-Games/Manim/media/videos/scene/1440p60/partial_movie_files/SquareRotation/916560888_747034571_3256495558.mp4'
+file 'file:C:/Users/imadb/Documents/Python Projects/Animations-Games/Manim/media/videos/scene/1440p60/partial_movie_files/SquareRotation/916560888_2315973128_3256495558.mp4'
+file 'file:C:/Users/imadb/Documents/Python Projects/Animations-Games/Manim/media/videos/scene/1440p60/partial_movie_files/SquareRotation/916560888_1280860681_3256495558.mp4'
+file 'file:C:/Users/imadb/Documents/Python Projects/Animations-Games/Manim/media/videos/scene/1440p60/partial_movie_files/SquareRotation/916560888_2867662213_3256495558.mp4'
+file 'file:C:/Users/imadb/Documents/Python Projects/Animations-Games/Manim/media/videos/scene/1440p60/partial_movie_files/SquareRotation/916560888_4229763785_3256495558.mp4'
+file 'file:C:/Users/imadb/Documents/Python Projects/Animations-Games/Manim/media/videos/scene/1440p60/partial_movie_files/SquareRotation/916560888_126876686_3256495558.mp4'
+file 'file:C:/Users/imadb/Documents/Python Projects/Animations-Games/Manim/media/videos/scene/1440p60/partial_movie_files/SquareRotation/916560888_803906753_3256495558.mp4'
